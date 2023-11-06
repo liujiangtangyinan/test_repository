@@ -1,0 +1,6 @@
+﻿metrics,ydata,agg_func,filter,type,metric_type
+Freeze_TempOutMax_Max,`tempout__max`,max,`tempout__max`!=0,double,
+Freeze_BLE_BREdgeBM_Max_Overloaded_Times,#max(`tempout__max`),NA,`tempout__max`!=0,double,
+Freeze_BLE_BREdgeBM_Max_Overloaded_Times1111,`Freeze_TempOutMax_Max`*`Freeze_BLE_BREdgeBM_Max_Overloaded_Times`,NA,`tempout__max`!=0,double,derived
+,,,,,
+,,,,,                                                                                                                                                         

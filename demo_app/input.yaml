@@ -1,0 +1,11 @@
+﻿CustomParameters:
+    start:
+        Type: 'datetime'
+        Value: ''
+        Desc: '数据起始日期 '
+    end:
+        Type: 'datetime'
+        Value: ''
+        Desc: '数据结束日期 '
+
+
