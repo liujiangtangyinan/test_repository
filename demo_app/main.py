@@ -6,7 +6,6 @@
 # 5. 执行计算
 #
 ##########################
-from metrics_factory import MetricsFactory
 
 
 def main():
